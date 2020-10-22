@@ -9,4 +9,4 @@ Thank you for wanting to contribute to this repository!
 
 * If you are a student and you've gotten permission from a content creator for sharing their content, please make a pull request similar to [this example / template](https://github.com/batikanor/tgu-archive/blob/main/permissions/BATIKAN-BORA-ORMANCI.md) at the same path. (E.g. if you've asked them via email, just write so. Please don't lie, otherwise you'll be held responsible for lying, for it isn't the nicest thing you could do :( ...)
 
-* If you are going to share some content, make sure that anyone that may have any right on that content has a file on them on the /permissions/ path, and the permissions they've given  
+* If you are going to share some content, make sure that anyone that may have any right on that content has a file on them on the /permissions/ path, and the permissions they've given (at least seemingly) include the content you're about to publish.
