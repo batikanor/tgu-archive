@@ -10,6 +10,6 @@ They have given the following permissions about the content that they have creat
 Extra note from the person: None
 
 
-Source: He made the push to the repository himself
+Source: They've made the push to the repository himself
 
 
