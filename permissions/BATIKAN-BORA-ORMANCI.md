@@ -12,6 +12,6 @@ None
 
 
 ## Source
-They've made the push to the repository himself
+They've made the push to the repository themselves.
 
 
